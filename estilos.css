@@ -1,0 +1,20 @@
+* {
+    font-family: "Roboto";
+}
+a{
+    text-decoration-style: none;
+    text-decoration: none;
+    color: #ffffff;
+}
+.cabecalho{
+
+    color: black;
+    font-family: "Roboto";
+    font-size: xx-large;
+   
+}
+.office{
+    text-align: justify;
+    font-family: "Roboto";
+    color: black
+}

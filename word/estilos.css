@@ -1,0 +1,18 @@
+* {
+    font-family: "Roboto";
+}
+.office{
+    text-align: justify;
+    font-family: "Roboto";
+    color: black
+    border: 200px white;
+    margin: 20px;
+    padding: 20px;
+}
+.cabecalho{
+    text-align: center;
+    color: #00549c;
+    font-family: "Roboto";
+    font-size: xx-large;
+   
+}
